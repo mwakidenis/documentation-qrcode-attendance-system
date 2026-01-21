@@ -1,4 +1,29 @@
-## QR SCAN ATTENDANCE SYSTEM
+# MERU UNIVERSITY QR ATTENDANCE SYSTEM
+
+**System by:** Cybernetic Group  
+**Project Type:** Mobile Application  
+**Platform:** Android  
+
+---
+
+## 👥 Project Members
+
+| Registration No. | Name |
+|------------------|------|
+| CT201/204111/23 | Kaaria Denis |
+| CT201/117191/24 | Brian Mutugi |
+| CT201/120375/24 | Jack Gerson Ogada |
+| CT201/117156/24 | Simon Macharia |
+| CT201/120305/24 | Johnson Jesse |
+| CT201/120110/24 | Motoki Stanley Mose |
+| CT201/120375/24 | Fred Amoli |
+
+---
+
+## 📅 Submission Date
+_To be filled_
+
+---
 
 ## 📘 Abstract
 QR Attendance is a mobile application developed to streamline classroom attendance marking using **QR codes** and **GPS validation**. The system allows lecturers to generate secure, time-limited QR codes tied to a specific location, which students scan using their mobile devices to mark attendance instantly.
